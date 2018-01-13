@@ -8,6 +8,6 @@ user may assign the respective "costs" of each operation. This program finds the
 
 To accomplish this, I convert a list of words into a graph, and I then implement a breadth first search of the graph to
 traverse from the starting word to the end word. Throughout, I keep track of the cost of each path, and if the current path
-exceeds the cost of a previously found completed path, curtail the pursuit of the current path.
+exceeds the cost of a previously completed path, I curtail the pursuit of the current path.
 
 To use this application, simply clone the repo and open the html file in your preferred web browser.
