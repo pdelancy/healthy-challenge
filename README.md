@@ -10,4 +10,5 @@ To accomplish this, I convert a list of words into a graph, and I then implement
 traverse from the starting word to the end word. Throughout, I keep track of the cost of each path, and if the current path
 exceeds the cost of a previously completed path, I curtail the pursuit of the current path.
 
-To use this application, simply clone the repo and open the html file in your preferred web browser.
+To use this application, simply clone the repo and open the html file in your preferred web browser. You may also follow this
+link: file:///Users/pdelancy1/Coding_Challenges/Rally_Health/RallyHealth.html.
